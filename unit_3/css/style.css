@@ -1,9 +1,9 @@
-body {background-color: #6e3838
+body {
+  text-align: center;
+  background-color: #A97D5D
+  font-family: Helvetica; 
+}
 
-}
-h1, p {text-color: #0f0909 text-align ="center"
-}
-ul {
-    text-align: left;
-    list-style-type: none;
+p {
+  font-size: 22px;
 }
