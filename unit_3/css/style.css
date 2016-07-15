@@ -1,6 +1,10 @@
+h1 {
+	background-color: #A97D5D
+	text-align: center;
+}
 body {
-  text-align: center;
-  background-color: #A97D5D
+  text-align: left;
+  text-decoration-color: #F7DCB4
   font-family: Helvetica; 
 }
 
