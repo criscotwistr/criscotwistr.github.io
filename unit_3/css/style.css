@@ -1,15 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 
-h1 {
-	font-family: 'Amatic SC', cursive;
 	background-color: #A97D5D
+
+h1 {
 	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-weight: 12px
+	font-size: 40px
 }
 body {
+  font-family: Helvetica; 
   text-align: left;
   text-decoration-color: #F7DCB4
-  background-color: #A97D5D
-  font-family: Helvetica; 
 }
 
 p {
