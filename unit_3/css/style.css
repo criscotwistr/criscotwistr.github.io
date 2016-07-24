@@ -1,4 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
 h1 {
+	font-family: 'Amatic SC', cursive;
 	background-color: #A97D5D
 	text-align: center;
 }
