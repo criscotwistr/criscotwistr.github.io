@@ -1,6 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 
-	background-color: #A97D5D
+.clearfix: after {
+	visibility: hidden;
+	display: block;
+	font-size: 0
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+background-color: #A97D5D
 
 header{
 	background-color: black
