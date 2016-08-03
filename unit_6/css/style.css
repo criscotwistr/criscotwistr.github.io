@@ -8,6 +8,25 @@ header{
 	padding: 20px;
 }
 
+#two_column{
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right{
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
 nav{
 	background-color: #FFED74
 
@@ -22,18 +41,24 @@ article{
 }
 
 footer{
+	align-content: center;
 	background-color: #FF957E
 }
 
 section{
-	background-color: #FFE2B8
+	background-color: #FFE2B8∑
 }
 
-h1 {
+h1{
 	text-align: center;
 	font-family: 'Amatic SC', cursive;
 	font-weight: 12px
 	font-size: 40px
+}
+
+h2{
+	text-align: center;
+	text-decoration-color: white;
 }
 body {
   font-family: Helvetica; 
