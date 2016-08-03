@@ -30,6 +30,9 @@ header{
 	width: 62%;
 }
 
+#description{
+	text-align: center;
+}
 
 nav{
 	background-color: #FFED74
