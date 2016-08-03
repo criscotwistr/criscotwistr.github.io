@@ -14,15 +14,15 @@ header{
 	padding: 20px;
 }
 
-#left{
+#left {
 	background-color: #E582A2;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%
+	width: 30%;
 }
 
-#right{
+#right {
 	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
