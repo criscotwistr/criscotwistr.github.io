@@ -1,20 +1,18 @@
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
-
-.clearfix: after {
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+* { margin:0; padding:0; box-sizing:border-box; }
+.clearfix:after {
 	visibility: hidden;
 	display: block;
-	font-size: 0
+	font-size: 0;
 	content: " ";
 	clear: both;
 	height: 0;
 }
-
-background-color: #A97D5D
-
 header{
-	background-color: black
+	background-color: black;
 	border: 1px black solid;
 	padding: 20px;
+	color: #F7DCB4;
 }
 
 #two_column{
@@ -44,42 +42,42 @@ header{
 }
 
 nav{
-	background-color: #FFED74
+	background-color: #FFED74;
 
 }
 
 aside{
-	background-color: #FFC675
+	background-color: #FFC675;
 }
 
 article{
-	background-color: #E89C6C
+	background-color: #E89C6C;
 }
 
 footer{
 	align-content: center;
-	background-color: #FF957E
+	background-color: #FF957E;
 }
 
 section{
-	background-color: #FFE2B8∑
+	background-color: #FFE2B8;
 }
 
 h1{
 	text-align: center;
 	font-family: 'Amatic SC', cursive;
-	font-weight: 12px
-	font-size: 40px
+	font-weight: 700;
+	font-size: 40px;
 }
 
 h2{
 	text-align: center;
-	text-decoration-color: white;
+	color: white;
 }
 body {
-  font-family: Helvetica; 
+  font-family: Helvetica;
   text-align: left;
-  text-decoration-color: #F7DCB4
+  color: rgba(0,0,0,.87);
 }
 
 p {
